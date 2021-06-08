@@ -21,7 +21,7 @@
 
 #nav a {
   font-weight: bold;
-  color: pink;
+  color: lightpink;
 }
 
 #nav a.router-link-exact-active {
